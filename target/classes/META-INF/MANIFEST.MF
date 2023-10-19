@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: Administrator
+Build-Jdk: 17.0.7
+Main-Class: com.project.service.MyClass
+Created-By: Maven Integration for Eclipse
+
